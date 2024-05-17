@@ -11,3 +11,16 @@ class Book(models.Model):
   price = models.IntegerField()
   published_date = models.DateField()
   description = models.TextField()
+
+"""
+{
+"bid":1,
+"title":"aaa",
+"author":"bbb",
+"category":"programming",
+"pages":100,
+"price":20000,
+"published_date":"2021-01-30",
+"description":"ddddddd"
+}
+"""
