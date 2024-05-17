@@ -4,7 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="95e907e5-b2e6-4574-95eb-5fe46fe72d0e" name="변경" comment="Mixins 사용">
+    <list default="true" id="95e907e5-b2e6-4574-95eb-5fe46fe72d0e" name="변경" comment="generics 이용">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/example/urls.py" beforeDir="false" afterPath="$PROJECT_DIR$/example/urls.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/example/views.py" beforeDir="false" afterPath="$PROJECT_DIR$/example/views.py" afterDir="false" />
@@ -114,7 +114,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1715939229380</updated>
-      <workItem from="1715939234069" duration="6133000" />
+      <workItem from="1715939234069" duration="6758000" />
     </task>
     <task id="LOCAL-00001" summary="기초 DRF API 예제 추가">
       <option name="closed" value="true" />
@@ -156,7 +156,15 @@
       <option name="project" value="LOCAL" />
       <updated>1715944771498</updated>
     </task>
-    <option name="localTasksCounter" value="6" />
+    <task id="LOCAL-00006" summary="generics 이용">
+      <option name="closed" value="true" />
+      <created>1715945483462</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1715945483462</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -168,6 +176,7 @@
     <MESSAGE value="잡다구리" />
     <MESSAGE value="함수 기반 뷰, 클래스 기반 뷰 추가" />
     <MESSAGE value="Mixins 사용" />
-    <option name="LAST_COMMIT_MESSAGE" value="Mixins 사용" />
+    <MESSAGE value="generics 이용" />
+    <option name="LAST_COMMIT_MESSAGE" value="generics 이용" />
   </component>
 </project>

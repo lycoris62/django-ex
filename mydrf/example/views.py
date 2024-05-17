@@ -82,3 +82,7 @@ class BookAPIGenerics(generics.RetrieveUpdateDestroyAPIView):
   queryset = Book.objects.all()
   serializer_class = BookSerializer
   lookup_field = "bid"
+
+class BookViewSet(viewsets.ModelViewSet):
+  queryset = Book.objects.all()
+  serializer_class = BookSerializer
