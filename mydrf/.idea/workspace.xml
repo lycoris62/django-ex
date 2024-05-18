@@ -9,6 +9,7 @@
       <change beforePath="$PROJECT_DIR$/../myboard/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../myboard/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../myboard/db.sqlite3" beforeDir="false" afterPath="$PROJECT_DIR$/../myboard/db.sqlite3" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../myboard/posts/models.py" beforeDir="false" afterPath="$PROJECT_DIR$/../myboard/posts/models.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../myboard/posts/serializer.py" beforeDir="false" afterPath="$PROJECT_DIR$/../myboard/posts/serializer.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
