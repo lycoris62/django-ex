@@ -4,13 +4,10 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="e4e0e4a7-3fd8-4de5-9391-a2a33c886068" name="변경" comment="좋아요 기능 추가">
-      <change afterPath="$PROJECT_DIR$/posts/migrations/0002_comment.py" afterDir="false" />
+    <list default="true" id="e4e0e4a7-3fd8-4de5-9391-a2a33c886068" name="변경" comment="댓글 모델 및 시리얼라이저 추가">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/db.sqlite3" beforeDir="false" afterPath="$PROJECT_DIR$/db.sqlite3" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/posts/models.py" beforeDir="false" afterPath="$PROJECT_DIR$/posts/models.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/posts/serializer.py" beforeDir="false" afterPath="$PROJECT_DIR$/posts/serializer.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../mydrf/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../mydrf/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/posts/urls.py" beforeDir="false" afterPath="$PROJECT_DIR$/posts/urls.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/posts/views.py" beforeDir="false" afterPath="$PROJECT_DIR$/posts/views.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -126,7 +123,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1715998024785</updated>
-      <workItem from="1715998029688" duration="15563000" />
+      <workItem from="1715998029688" duration="15710000" />
     </task>
     <task id="LOCAL-00001" summary="myboard 예제 첫 커밋">
       <option name="closed" value="true" />
@@ -256,7 +253,15 @@
       <option name="project" value="LOCAL" />
       <updated>1716017571871</updated>
     </task>
-    <option name="localTasksCounter" value="17" />
+    <task id="LOCAL-00017" summary="댓글 모델 및 시리얼라이저 추가">
+      <option name="closed" value="true" />
+      <created>1716017708114</created>
+      <option name="number" value="00017" />
+      <option name="presentableId" value="LOCAL-00017" />
+      <option name="project" value="LOCAL" />
+      <updated>1716017708114</updated>
+    </task>
+    <option name="localTasksCounter" value="18" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -279,6 +284,7 @@
     <MESSAGE value="잡다구리" />
     <MESSAGE value="게시글 필터링 추가" />
     <MESSAGE value="좋아요 기능 추가" />
-    <option name="LAST_COMMIT_MESSAGE" value="좋아요 기능 추가" />
+    <MESSAGE value="댓글 모델 및 시리얼라이저 추가" />
+    <option name="LAST_COMMIT_MESSAGE" value="댓글 모델 및 시리얼라이저 추가" />
   </component>
 </project>
