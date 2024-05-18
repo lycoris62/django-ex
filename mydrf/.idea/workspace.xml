@@ -4,7 +4,25 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="95e907e5-b2e6-4574-95eb-5fe46fe72d0e" name="변경" comment="DRF Viewset, Router 이용">
+    <list default="true" id="95e907e5-b2e6-4574-95eb-5fe46fe72d0e" name="변경" comment="파이참 gitignore 추가">
+      <change afterPath="$PROJECT_DIR$/../myboard/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../myboard/.idea/codeStyles/codeStyleConfig.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../myboard/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../myboard/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../myboard/db.sqlite3" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../myboard/manage.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../myboard/myboard/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../myboard/myboard/asgi.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../myboard/myboard/settings.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../myboard/myboard/urls.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../myboard/myboard/wsgi.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../myboard/users/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../myboard/users/admin.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../myboard/users/apps.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../myboard/users/migrations/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../myboard/users/models.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../myboard/users/tests.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../myboard/users/views.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
@@ -116,7 +134,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1715939229380</updated>
-      <workItem from="1715939234069" duration="9054000" />
+      <workItem from="1715939234069" duration="10420000" />
     </task>
     <task id="LOCAL-00001" summary="기초 DRF API 예제 추가">
       <option name="closed" value="true" />
@@ -174,7 +192,15 @@
       <option name="project" value="LOCAL" />
       <updated>1715946030156</updated>
     </task>
-    <option name="localTasksCounter" value="8" />
+    <task id="LOCAL-00008" summary="파이참 gitignore 추가">
+      <option name="closed" value="true" />
+      <created>1715997440673</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1715997440673</updated>
+    </task>
+    <option name="localTasksCounter" value="9" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -188,6 +214,7 @@
     <MESSAGE value="Mixins 사용" />
     <MESSAGE value="generics 이용" />
     <MESSAGE value="DRF Viewset, Router 이용" />
-    <option name="LAST_COMMIT_MESSAGE" value="DRF Viewset, Router 이용" />
+    <MESSAGE value="파이참 gitignore 추가" />
+    <option name="LAST_COMMIT_MESSAGE" value="파이참 gitignore 추가" />
   </component>
 </project>
