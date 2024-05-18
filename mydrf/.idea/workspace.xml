@@ -4,10 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="95e907e5-b2e6-4574-95eb-5fe46fe72d0e" name="변경" comment="generics 이용">
+    <list default="true" id="95e907e5-b2e6-4574-95eb-5fe46fe72d0e" name="변경" comment="DRF Viewset, Router 이용">
+      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/example/urls.py" beforeDir="false" afterPath="$PROJECT_DIR$/example/urls.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/example/views.py" beforeDir="false" afterPath="$PROJECT_DIR$/example/views.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -39,6 +38,9 @@
     "accountId": "2b5a42e7-54a8-4d20-8dee-3bb4fedb6474"
   }
 }]]></component>
+  <component name="PerforceDirect.Settings">
+    <option name="CHARSET" value="없음" />
+  </component>
   <component name="ProjectColorInfo"><![CDATA[{
   "associatedIndex": 0
 }]]></component>
@@ -114,7 +116,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1715939229380</updated>
-      <workItem from="1715939234069" duration="6758000" />
+      <workItem from="1715939234069" duration="9054000" />
     </task>
     <task id="LOCAL-00001" summary="기초 DRF API 예제 추가">
       <option name="closed" value="true" />
@@ -164,7 +166,15 @@
       <option name="project" value="LOCAL" />
       <updated>1715945483462</updated>
     </task>
-    <option name="localTasksCounter" value="7" />
+    <task id="LOCAL-00007" summary="DRF Viewset, Router 이용">
+      <option name="closed" value="true" />
+      <created>1715946030156</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1715946030156</updated>
+    </task>
+    <option name="localTasksCounter" value="8" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -177,6 +187,7 @@
     <MESSAGE value="함수 기반 뷰, 클래스 기반 뷰 추가" />
     <MESSAGE value="Mixins 사용" />
     <MESSAGE value="generics 이용" />
-    <option name="LAST_COMMIT_MESSAGE" value="generics 이용" />
+    <MESSAGE value="DRF Viewset, Router 이용" />
+    <option name="LAST_COMMIT_MESSAGE" value="DRF Viewset, Router 이용" />
   </component>
 </project>
